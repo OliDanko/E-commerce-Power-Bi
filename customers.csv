@@ -1,0 +1,801 @@
+CustomerID,CustomerName,Region
+CUST1000,Customer_1,Europe
+CUST1001,Customer_2,South America
+CUST1002,Customer_3,North America
+CUST1003,Customer_4,Europe
+CUST1004,Customer_5,South America
+CUST1005,Customer_6,South America
+CUST1006,Customer_7,Asia
+CUST1007,Customer_8,North America
+CUST1008,Customer_9,Asia
+CUST1009,Customer_10,North America
+CUST1010,Customer_11,Europe
+CUST1011,Customer_12,Europe
+CUST1012,Customer_13,Europe
+CUST1013,Customer_14,Asia
+CUST1014,Customer_15,North America
+CUST1015,Customer_16,South America
+CUST1016,Customer_17,North America
+CUST1017,Customer_18,North America
+CUST1018,Customer_19,Asia
+CUST1019,Customer_20,Asia
+CUST1020,Customer_21,North America
+CUST1021,Customer_22,North America
+CUST1022,Customer_23,Asia
+CUST1023,Customer_24,Europe
+CUST1024,Customer_25,Europe
+CUST1025,Customer_26,Europe
+CUST1026,Customer_27,Asia
+CUST1027,Customer_28,Europe
+CUST1028,Customer_29,South America
+CUST1029,Customer_30,South America
+CUST1030,Customer_31,Europe
+CUST1031,Customer_32,North America
+CUST1032,Customer_33,North America
+CUST1033,Customer_34,Asia
+CUST1034,Customer_35,South America
+CUST1035,Customer_36,North America
+CUST1036,Customer_37,South America
+CUST1037,Customer_38,North America
+CUST1038,Customer_39,Europe
+CUST1039,Customer_40,North America
+CUST1040,Customer_41,Asia
+CUST1041,Customer_42,Europe
+CUST1042,Customer_43,North America
+CUST1043,Customer_44,Europe
+CUST1044,Customer_45,Europe
+CUST1045,Customer_46,Europe
+CUST1046,Customer_47,South America
+CUST1047,Customer_48,North America
+CUST1048,Customer_49,Asia
+CUST1049,Customer_50,Europe
+CUST1050,Customer_51,Europe
+CUST1051,Customer_52,Europe
+CUST1052,Customer_53,North America
+CUST1053,Customer_54,North America
+CUST1054,Customer_55,Europe
+CUST1055,Customer_56,South America
+CUST1056,Customer_57,Europe
+CUST1057,Customer_58,Europe
+CUST1058,Customer_59,Europe
+CUST1059,Customer_60,North America
+CUST1060,Customer_61,Asia
+CUST1061,Customer_62,South America
+CUST1062,Customer_63,Asia
+CUST1063,Customer_64,Europe
+CUST1064,Customer_65,South America
+CUST1065,Customer_66,North America
+CUST1066,Customer_67,South America
+CUST1067,Customer_68,North America
+CUST1068,Customer_69,Europe
+CUST1069,Customer_70,Europe
+CUST1070,Customer_71,North America
+CUST1071,Customer_72,North America
+CUST1072,Customer_73,South America
+CUST1073,Customer_74,South America
+CUST1074,Customer_75,North America
+CUST1075,Customer_76,North America
+CUST1076,Customer_77,North America
+CUST1077,Customer_78,Europe
+CUST1078,Customer_79,North America
+CUST1079,Customer_80,Europe
+CUST1080,Customer_81,Europe
+CUST1081,Customer_82,North America
+CUST1082,Customer_83,Europe
+CUST1083,Customer_84,South America
+CUST1084,Customer_85,Europe
+CUST1085,Customer_86,North America
+CUST1086,Customer_87,Asia
+CUST1087,Customer_88,North America
+CUST1088,Customer_89,Europe
+CUST1089,Customer_90,Asia
+CUST1090,Customer_91,North America
+CUST1091,Customer_92,Europe
+CUST1092,Customer_93,Europe
+CUST1093,Customer_94,South America
+CUST1094,Customer_95,Asia
+CUST1095,Customer_96,Asia
+CUST1096,Customer_97,Europe
+CUST1097,Customer_98,Asia
+CUST1098,Customer_99,North America
+CUST1099,Customer_100,South America
+CUST1100,Customer_101,South America
+CUST1101,Customer_102,Europe
+CUST1102,Customer_103,Asia
+CUST1103,Customer_104,North America
+CUST1104,Customer_105,South America
+CUST1105,Customer_106,Asia
+CUST1106,Customer_107,North America
+CUST1107,Customer_108,South America
+CUST1108,Customer_109,North America
+CUST1109,Customer_110,North America
+CUST1110,Customer_111,Europe
+CUST1111,Customer_112,North America
+CUST1112,Customer_113,Asia
+CUST1113,Customer_114,Asia
+CUST1114,Customer_115,Asia
+CUST1115,Customer_116,South America
+CUST1116,Customer_117,Asia
+CUST1117,Customer_118,North America
+CUST1118,Customer_119,North America
+CUST1119,Customer_120,South America
+CUST1120,Customer_121,Asia
+CUST1121,Customer_122,North America
+CUST1122,Customer_123,Europe
+CUST1123,Customer_124,North America
+CUST1124,Customer_125,Asia
+CUST1125,Customer_126,Asia
+CUST1126,Customer_127,North America
+CUST1127,Customer_128,Europe
+CUST1128,Customer_129,South America
+CUST1129,Customer_130,North America
+CUST1130,Customer_131,Europe
+CUST1131,Customer_132,Asia
+CUST1132,Customer_133,Europe
+CUST1133,Customer_134,North America
+CUST1134,Customer_135,North America
+CUST1135,Customer_136,Asia
+CUST1136,Customer_137,Asia
+CUST1137,Customer_138,South America
+CUST1138,Customer_139,Europe
+CUST1139,Customer_140,South America
+CUST1140,Customer_141,Europe
+CUST1141,Customer_142,South America
+CUST1142,Customer_143,Europe
+CUST1143,Customer_144,South America
+CUST1144,Customer_145,Asia
+CUST1145,Customer_146,Asia
+CUST1146,Customer_147,North America
+CUST1147,Customer_148,North America
+CUST1148,Customer_149,Asia
+CUST1149,Customer_150,Asia
+CUST1150,Customer_151,Europe
+CUST1151,Customer_152,North America
+CUST1152,Customer_153,Asia
+CUST1153,Customer_154,South America
+CUST1154,Customer_155,South America
+CUST1155,Customer_156,North America
+CUST1156,Customer_157,South America
+CUST1157,Customer_158,Asia
+CUST1158,Customer_159,Europe
+CUST1159,Customer_160,North America
+CUST1160,Customer_161,Europe
+CUST1161,Customer_162,Europe
+CUST1162,Customer_163,Europe
+CUST1163,Customer_164,South America
+CUST1164,Customer_165,North America
+CUST1165,Customer_166,Asia
+CUST1166,Customer_167,Europe
+CUST1167,Customer_168,Asia
+CUST1168,Customer_169,North America
+CUST1169,Customer_170,Europe
+CUST1170,Customer_171,Europe
+CUST1171,Customer_172,South America
+CUST1172,Customer_173,South America
+CUST1173,Customer_174,Asia
+CUST1174,Customer_175,North America
+CUST1175,Customer_176,South America
+CUST1176,Customer_177,South America
+CUST1177,Customer_178,South America
+CUST1178,Customer_179,North America
+CUST1179,Customer_180,Europe
+CUST1180,Customer_181,South America
+CUST1181,Customer_182,Asia
+CUST1182,Customer_183,North America
+CUST1183,Customer_184,North America
+CUST1184,Customer_185,South America
+CUST1185,Customer_186,North America
+CUST1186,Customer_187,South America
+CUST1187,Customer_188,North America
+CUST1188,Customer_189,North America
+CUST1189,Customer_190,South America
+CUST1190,Customer_191,Asia
+CUST1191,Customer_192,Europe
+CUST1192,Customer_193,South America
+CUST1193,Customer_194,Asia
+CUST1194,Customer_195,South America
+CUST1195,Customer_196,South America
+CUST1196,Customer_197,Europe
+CUST1197,Customer_198,North America
+CUST1198,Customer_199,South America
+CUST1199,Customer_200,South America
+CUST1200,Customer_201,Europe
+CUST1201,Customer_202,South America
+CUST1202,Customer_203,North America
+CUST1203,Customer_204,South America
+CUST1204,Customer_205,South America
+CUST1205,Customer_206,South America
+CUST1206,Customer_207,South America
+CUST1207,Customer_208,North America
+CUST1208,Customer_209,Asia
+CUST1209,Customer_210,South America
+CUST1210,Customer_211,Asia
+CUST1211,Customer_212,North America
+CUST1212,Customer_213,North America
+CUST1213,Customer_214,Europe
+CUST1214,Customer_215,Europe
+CUST1215,Customer_216,Asia
+CUST1216,Customer_217,North America
+CUST1217,Customer_218,North America
+CUST1218,Customer_219,Europe
+CUST1219,Customer_220,Europe
+CUST1220,Customer_221,South America
+CUST1221,Customer_222,North America
+CUST1222,Customer_223,Europe
+CUST1223,Customer_224,South America
+CUST1224,Customer_225,North America
+CUST1225,Customer_226,North America
+CUST1226,Customer_227,North America
+CUST1227,Customer_228,Europe
+CUST1228,Customer_229,Europe
+CUST1229,Customer_230,South America
+CUST1230,Customer_231,Europe
+CUST1231,Customer_232,South America
+CUST1232,Customer_233,Europe
+CUST1233,Customer_234,Asia
+CUST1234,Customer_235,Asia
+CUST1235,Customer_236,Europe
+CUST1236,Customer_237,North America
+CUST1237,Customer_238,Asia
+CUST1238,Customer_239,Europe
+CUST1239,Customer_240,South America
+CUST1240,Customer_241,Asia
+CUST1241,Customer_242,Europe
+CUST1242,Customer_243,North America
+CUST1243,Customer_244,North America
+CUST1244,Customer_245,South America
+CUST1245,Customer_246,North America
+CUST1246,Customer_247,South America
+CUST1247,Customer_248,South America
+CUST1248,Customer_249,South America
+CUST1249,Customer_250,South America
+CUST1250,Customer_251,Europe
+CUST1251,Customer_252,Europe
+CUST1252,Customer_253,South America
+CUST1253,Customer_254,North America
+CUST1254,Customer_255,Asia
+CUST1255,Customer_256,Asia
+CUST1256,Customer_257,Asia
+CUST1257,Customer_258,North America
+CUST1258,Customer_259,South America
+CUST1259,Customer_260,South America
+CUST1260,Customer_261,Europe
+CUST1261,Customer_262,Europe
+CUST1262,Customer_263,Asia
+CUST1263,Customer_264,Asia
+CUST1264,Customer_265,Asia
+CUST1265,Customer_266,Asia
+CUST1266,Customer_267,South America
+CUST1267,Customer_268,South America
+CUST1268,Customer_269,South America
+CUST1269,Customer_270,Europe
+CUST1270,Customer_271,North America
+CUST1271,Customer_272,South America
+CUST1272,Customer_273,South America
+CUST1273,Customer_274,Asia
+CUST1274,Customer_275,North America
+CUST1275,Customer_276,Europe
+CUST1276,Customer_277,Europe
+CUST1277,Customer_278,Asia
+CUST1278,Customer_279,North America
+CUST1279,Customer_280,Europe
+CUST1280,Customer_281,Europe
+CUST1281,Customer_282,Europe
+CUST1282,Customer_283,North America
+CUST1283,Customer_284,South America
+CUST1284,Customer_285,South America
+CUST1285,Customer_286,Europe
+CUST1286,Customer_287,North America
+CUST1287,Customer_288,North America
+CUST1288,Customer_289,Europe
+CUST1289,Customer_290,North America
+CUST1290,Customer_291,Asia
+CUST1291,Customer_292,Asia
+CUST1292,Customer_293,Europe
+CUST1293,Customer_294,North America
+CUST1294,Customer_295,Asia
+CUST1295,Customer_296,North America
+CUST1296,Customer_297,Europe
+CUST1297,Customer_298,Europe
+CUST1298,Customer_299,Asia
+CUST1299,Customer_300,North America
+CUST1300,Customer_301,Europe
+CUST1301,Customer_302,South America
+CUST1302,Customer_303,Asia
+CUST1303,Customer_304,Asia
+CUST1304,Customer_305,Asia
+CUST1305,Customer_306,North America
+CUST1306,Customer_307,North America
+CUST1307,Customer_308,North America
+CUST1308,Customer_309,Asia
+CUST1309,Customer_310,Asia
+CUST1310,Customer_311,Europe
+CUST1311,Customer_312,South America
+CUST1312,Customer_313,Asia
+CUST1313,Customer_314,Asia
+CUST1314,Customer_315,Europe
+CUST1315,Customer_316,Asia
+CUST1316,Customer_317,Europe
+CUST1317,Customer_318,North America
+CUST1318,Customer_319,South America
+CUST1319,Customer_320,North America
+CUST1320,Customer_321,North America
+CUST1321,Customer_322,North America
+CUST1322,Customer_323,Asia
+CUST1323,Customer_324,South America
+CUST1324,Customer_325,South America
+CUST1325,Customer_326,South America
+CUST1326,Customer_327,Europe
+CUST1327,Customer_328,Europe
+CUST1328,Customer_329,Asia
+CUST1329,Customer_330,North America
+CUST1330,Customer_331,North America
+CUST1331,Customer_332,South America
+CUST1332,Customer_333,South America
+CUST1333,Customer_334,Asia
+CUST1334,Customer_335,South America
+CUST1335,Customer_336,North America
+CUST1336,Customer_337,Asia
+CUST1337,Customer_338,North America
+CUST1338,Customer_339,Asia
+CUST1339,Customer_340,South America
+CUST1340,Customer_341,Europe
+CUST1341,Customer_342,Asia
+CUST1342,Customer_343,North America
+CUST1343,Customer_344,North America
+CUST1344,Customer_345,South America
+CUST1345,Customer_346,South America
+CUST1346,Customer_347,South America
+CUST1347,Customer_348,Europe
+CUST1348,Customer_349,Asia
+CUST1349,Customer_350,Asia
+CUST1350,Customer_351,Europe
+CUST1351,Customer_352,Asia
+CUST1352,Customer_353,Europe
+CUST1353,Customer_354,Asia
+CUST1354,Customer_355,Asia
+CUST1355,Customer_356,Europe
+CUST1356,Customer_357,Europe
+CUST1357,Customer_358,South America
+CUST1358,Customer_359,Asia
+CUST1359,Customer_360,North America
+CUST1360,Customer_361,North America
+CUST1361,Customer_362,North America
+CUST1362,Customer_363,Europe
+CUST1363,Customer_364,North America
+CUST1364,Customer_365,South America
+CUST1365,Customer_366,Asia
+CUST1366,Customer_367,Asia
+CUST1367,Customer_368,South America
+CUST1368,Customer_369,South America
+CUST1369,Customer_370,Europe
+CUST1370,Customer_371,North America
+CUST1371,Customer_372,South America
+CUST1372,Customer_373,Europe
+CUST1373,Customer_374,South America
+CUST1374,Customer_375,Europe
+CUST1375,Customer_376,South America
+CUST1376,Customer_377,North America
+CUST1377,Customer_378,South America
+CUST1378,Customer_379,Asia
+CUST1379,Customer_380,North America
+CUST1380,Customer_381,North America
+CUST1381,Customer_382,North America
+CUST1382,Customer_383,North America
+CUST1383,Customer_384,Asia
+CUST1384,Customer_385,South America
+CUST1385,Customer_386,Europe
+CUST1386,Customer_387,Europe
+CUST1387,Customer_388,Asia
+CUST1388,Customer_389,Asia
+CUST1389,Customer_390,South America
+CUST1390,Customer_391,South America
+CUST1391,Customer_392,Europe
+CUST1392,Customer_393,North America
+CUST1393,Customer_394,Asia
+CUST1394,Customer_395,Asia
+CUST1395,Customer_396,South America
+CUST1396,Customer_397,Europe
+CUST1397,Customer_398,Asia
+CUST1398,Customer_399,North America
+CUST1399,Customer_400,Europe
+CUST1400,Customer_401,North America
+CUST1401,Customer_402,Asia
+CUST1402,Customer_403,Europe
+CUST1403,Customer_404,North America
+CUST1404,Customer_405,Asia
+CUST1405,Customer_406,Europe
+CUST1406,Customer_407,Europe
+CUST1407,Customer_408,South America
+CUST1408,Customer_409,Asia
+CUST1409,Customer_410,Europe
+CUST1410,Customer_411,South America
+CUST1411,Customer_412,South America
+CUST1412,Customer_413,Europe
+CUST1413,Customer_414,South America
+CUST1414,Customer_415,North America
+CUST1415,Customer_416,North America
+CUST1416,Customer_417,Asia
+CUST1417,Customer_418,Europe
+CUST1418,Customer_419,South America
+CUST1419,Customer_420,North America
+CUST1420,Customer_421,Asia
+CUST1421,Customer_422,North America
+CUST1422,Customer_423,Asia
+CUST1423,Customer_424,North America
+CUST1424,Customer_425,North America
+CUST1425,Customer_426,South America
+CUST1426,Customer_427,Europe
+CUST1427,Customer_428,Asia
+CUST1428,Customer_429,Asia
+CUST1429,Customer_430,North America
+CUST1430,Customer_431,South America
+CUST1431,Customer_432,Europe
+CUST1432,Customer_433,North America
+CUST1433,Customer_434,North America
+CUST1434,Customer_435,North America
+CUST1435,Customer_436,North America
+CUST1436,Customer_437,South America
+CUST1437,Customer_438,Europe
+CUST1438,Customer_439,South America
+CUST1439,Customer_440,North America
+CUST1440,Customer_441,Europe
+CUST1441,Customer_442,Asia
+CUST1442,Customer_443,South America
+CUST1443,Customer_444,Asia
+CUST1444,Customer_445,Europe
+CUST1445,Customer_446,Asia
+CUST1446,Customer_447,South America
+CUST1447,Customer_448,South America
+CUST1448,Customer_449,Europe
+CUST1449,Customer_450,Asia
+CUST1450,Customer_451,Asia
+CUST1451,Customer_452,North America
+CUST1452,Customer_453,Asia
+CUST1453,Customer_454,North America
+CUST1454,Customer_455,South America
+CUST1455,Customer_456,North America
+CUST1456,Customer_457,South America
+CUST1457,Customer_458,North America
+CUST1458,Customer_459,North America
+CUST1459,Customer_460,Europe
+CUST1460,Customer_461,Europe
+CUST1461,Customer_462,Europe
+CUST1462,Customer_463,South America
+CUST1463,Customer_464,South America
+CUST1464,Customer_465,Asia
+CUST1465,Customer_466,North America
+CUST1466,Customer_467,Europe
+CUST1467,Customer_468,North America
+CUST1468,Customer_469,South America
+CUST1469,Customer_470,South America
+CUST1470,Customer_471,South America
+CUST1471,Customer_472,North America
+CUST1472,Customer_473,Asia
+CUST1473,Customer_474,South America
+CUST1474,Customer_475,South America
+CUST1475,Customer_476,Europe
+CUST1476,Customer_477,South America
+CUST1477,Customer_478,North America
+CUST1478,Customer_479,North America
+CUST1479,Customer_480,Europe
+CUST1480,Customer_481,South America
+CUST1481,Customer_482,North America
+CUST1482,Customer_483,Asia
+CUST1483,Customer_484,North America
+CUST1484,Customer_485,Asia
+CUST1485,Customer_486,South America
+CUST1486,Customer_487,North America
+CUST1487,Customer_488,Europe
+CUST1488,Customer_489,Europe
+CUST1489,Customer_490,Europe
+CUST1490,Customer_491,Asia
+CUST1491,Customer_492,Asia
+CUST1492,Customer_493,Asia
+CUST1493,Customer_494,North America
+CUST1494,Customer_495,Asia
+CUST1495,Customer_496,North America
+CUST1496,Customer_497,North America
+CUST1497,Customer_498,Europe
+CUST1498,Customer_499,Asia
+CUST1499,Customer_500,Europe
+CUST1500,Customer_501,North America
+CUST1501,Customer_502,Europe
+CUST1502,Customer_503,North America
+CUST1503,Customer_504,Europe
+CUST1504,Customer_505,Europe
+CUST1505,Customer_506,South America
+CUST1506,Customer_507,North America
+CUST1507,Customer_508,Asia
+CUST1508,Customer_509,Asia
+CUST1509,Customer_510,North America
+CUST1510,Customer_511,North America
+CUST1511,Customer_512,Europe
+CUST1512,Customer_513,Europe
+CUST1513,Customer_514,North America
+CUST1514,Customer_515,Europe
+CUST1515,Customer_516,Europe
+CUST1516,Customer_517,Asia
+CUST1517,Customer_518,South America
+CUST1518,Customer_519,Asia
+CUST1519,Customer_520,Europe
+CUST1520,Customer_521,Europe
+CUST1521,Customer_522,Europe
+CUST1522,Customer_523,North America
+CUST1523,Customer_524,South America
+CUST1524,Customer_525,Asia
+CUST1525,Customer_526,North America
+CUST1526,Customer_527,Asia
+CUST1527,Customer_528,North America
+CUST1528,Customer_529,North America
+CUST1529,Customer_530,Asia
+CUST1530,Customer_531,Asia
+CUST1531,Customer_532,North America
+CUST1532,Customer_533,North America
+CUST1533,Customer_534,Asia
+CUST1534,Customer_535,Europe
+CUST1535,Customer_536,South America
+CUST1536,Customer_537,Europe
+CUST1537,Customer_538,Asia
+CUST1538,Customer_539,South America
+CUST1539,Customer_540,Europe
+CUST1540,Customer_541,Asia
+CUST1541,Customer_542,South America
+CUST1542,Customer_543,Europe
+CUST1543,Customer_544,South America
+CUST1544,Customer_545,Europe
+CUST1545,Customer_546,Europe
+CUST1546,Customer_547,South America
+CUST1547,Customer_548,Asia
+CUST1548,Customer_549,North America
+CUST1549,Customer_550,North America
+CUST1550,Customer_551,Europe
+CUST1551,Customer_552,Europe
+CUST1552,Customer_553,South America
+CUST1553,Customer_554,Asia
+CUST1554,Customer_555,North America
+CUST1555,Customer_556,Asia
+CUST1556,Customer_557,North America
+CUST1557,Customer_558,South America
+CUST1558,Customer_559,North America
+CUST1559,Customer_560,Europe
+CUST1560,Customer_561,South America
+CUST1561,Customer_562,Europe
+CUST1562,Customer_563,South America
+CUST1563,Customer_564,Asia
+CUST1564,Customer_565,Asia
+CUST1565,Customer_566,Europe
+CUST1566,Customer_567,North America
+CUST1567,Customer_568,North America
+CUST1568,Customer_569,Europe
+CUST1569,Customer_570,Asia
+CUST1570,Customer_571,South America
+CUST1571,Customer_572,North America
+CUST1572,Customer_573,South America
+CUST1573,Customer_574,Europe
+CUST1574,Customer_575,South America
+CUST1575,Customer_576,North America
+CUST1576,Customer_577,South America
+CUST1577,Customer_578,Europe
+CUST1578,Customer_579,Europe
+CUST1579,Customer_580,Asia
+CUST1580,Customer_581,Asia
+CUST1581,Customer_582,North America
+CUST1582,Customer_583,Asia
+CUST1583,Customer_584,Asia
+CUST1584,Customer_585,North America
+CUST1585,Customer_586,Asia
+CUST1586,Customer_587,North America
+CUST1587,Customer_588,Europe
+CUST1588,Customer_589,South America
+CUST1589,Customer_590,South America
+CUST1590,Customer_591,Europe
+CUST1591,Customer_592,South America
+CUST1592,Customer_593,North America
+CUST1593,Customer_594,Asia
+CUST1594,Customer_595,North America
+CUST1595,Customer_596,South America
+CUST1596,Customer_597,South America
+CUST1597,Customer_598,North America
+CUST1598,Customer_599,South America
+CUST1599,Customer_600,Europe
+CUST1600,Customer_601,North America
+CUST1601,Customer_602,North America
+CUST1602,Customer_603,Europe
+CUST1603,Customer_604,Europe
+CUST1604,Customer_605,North America
+CUST1605,Customer_606,South America
+CUST1606,Customer_607,North America
+CUST1607,Customer_608,South America
+CUST1608,Customer_609,North America
+CUST1609,Customer_610,Asia
+CUST1610,Customer_611,Asia
+CUST1611,Customer_612,North America
+CUST1612,Customer_613,North America
+CUST1613,Customer_614,Europe
+CUST1614,Customer_615,Asia
+CUST1615,Customer_616,Europe
+CUST1616,Customer_617,Asia
+CUST1617,Customer_618,Asia
+CUST1618,Customer_619,South America
+CUST1619,Customer_620,South America
+CUST1620,Customer_621,Asia
+CUST1621,Customer_622,Asia
+CUST1622,Customer_623,Europe
+CUST1623,Customer_624,South America
+CUST1624,Customer_625,South America
+CUST1625,Customer_626,South America
+CUST1626,Customer_627,Asia
+CUST1627,Customer_628,South America
+CUST1628,Customer_629,North America
+CUST1629,Customer_630,South America
+CUST1630,Customer_631,Europe
+CUST1631,Customer_632,Asia
+CUST1632,Customer_633,North America
+CUST1633,Customer_634,North America
+CUST1634,Customer_635,North America
+CUST1635,Customer_636,South America
+CUST1636,Customer_637,South America
+CUST1637,Customer_638,South America
+CUST1638,Customer_639,North America
+CUST1639,Customer_640,North America
+CUST1640,Customer_641,North America
+CUST1641,Customer_642,Europe
+CUST1642,Customer_643,South America
+CUST1643,Customer_644,South America
+CUST1644,Customer_645,North America
+CUST1645,Customer_646,Asia
+CUST1646,Customer_647,Asia
+CUST1647,Customer_648,North America
+CUST1648,Customer_649,Asia
+CUST1649,Customer_650,North America
+CUST1650,Customer_651,South America
+CUST1651,Customer_652,North America
+CUST1652,Customer_653,Asia
+CUST1653,Customer_654,South America
+CUST1654,Customer_655,Asia
+CUST1655,Customer_656,North America
+CUST1656,Customer_657,South America
+CUST1657,Customer_658,Europe
+CUST1658,Customer_659,Asia
+CUST1659,Customer_660,Europe
+CUST1660,Customer_661,Asia
+CUST1661,Customer_662,North America
+CUST1662,Customer_663,North America
+CUST1663,Customer_664,Asia
+CUST1664,Customer_665,North America
+CUST1665,Customer_666,South America
+CUST1666,Customer_667,Asia
+CUST1667,Customer_668,Asia
+CUST1668,Customer_669,South America
+CUST1669,Customer_670,Asia
+CUST1670,Customer_671,Asia
+CUST1671,Customer_672,South America
+CUST1672,Customer_673,Europe
+CUST1673,Customer_674,North America
+CUST1674,Customer_675,North America
+CUST1675,Customer_676,South America
+CUST1676,Customer_677,North America
+CUST1677,Customer_678,Europe
+CUST1678,Customer_679,North America
+CUST1679,Customer_680,North America
+CUST1680,Customer_681,South America
+CUST1681,Customer_682,North America
+CUST1682,Customer_683,South America
+CUST1683,Customer_684,Asia
+CUST1684,Customer_685,Europe
+CUST1685,Customer_686,South America
+CUST1686,Customer_687,North America
+CUST1687,Customer_688,South America
+CUST1688,Customer_689,South America
+CUST1689,Customer_690,South America
+CUST1690,Customer_691,Asia
+CUST1691,Customer_692,South America
+CUST1692,Customer_693,Asia
+CUST1693,Customer_694,North America
+CUST1694,Customer_695,Europe
+CUST1695,Customer_696,Asia
+CUST1696,Customer_697,South America
+CUST1697,Customer_698,Europe
+CUST1698,Customer_699,South America
+CUST1699,Customer_700,North America
+CUST1700,Customer_701,Asia
+CUST1701,Customer_702,South America
+CUST1702,Customer_703,North America
+CUST1703,Customer_704,South America
+CUST1704,Customer_705,North America
+CUST1705,Customer_706,South America
+CUST1706,Customer_707,Europe
+CUST1707,Customer_708,North America
+CUST1708,Customer_709,South America
+CUST1709,Customer_710,Asia
+CUST1710,Customer_711,Asia
+CUST1711,Customer_712,Europe
+CUST1712,Customer_713,South America
+CUST1713,Customer_714,Europe
+CUST1714,Customer_715,Asia
+CUST1715,Customer_716,South America
+CUST1716,Customer_717,Asia
+CUST1717,Customer_718,North America
+CUST1718,Customer_719,South America
+CUST1719,Customer_720,South America
+CUST1720,Customer_721,South America
+CUST1721,Customer_722,Europe
+CUST1722,Customer_723,North America
+CUST1723,Customer_724,North America
+CUST1724,Customer_725,South America
+CUST1725,Customer_726,South America
+CUST1726,Customer_727,South America
+CUST1727,Customer_728,Asia
+CUST1728,Customer_729,Asia
+CUST1729,Customer_730,Asia
+CUST1730,Customer_731,Asia
+CUST1731,Customer_732,South America
+CUST1732,Customer_733,North America
+CUST1733,Customer_734,Asia
+CUST1734,Customer_735,Asia
+CUST1735,Customer_736,Asia
+CUST1736,Customer_737,Europe
+CUST1737,Customer_738,South America
+CUST1738,Customer_739,North America
+CUST1739,Customer_740,South America
+CUST1740,Customer_741,South America
+CUST1741,Customer_742,Asia
+CUST1742,Customer_743,Asia
+CUST1743,Customer_744,Europe
+CUST1744,Customer_745,North America
+CUST1745,Customer_746,South America
+CUST1746,Customer_747,North America
+CUST1747,Customer_748,Asia
+CUST1748,Customer_749,South America
+CUST1749,Customer_750,North America
+CUST1750,Customer_751,South America
+CUST1751,Customer_752,Europe
+CUST1752,Customer_753,North America
+CUST1753,Customer_754,South America
+CUST1754,Customer_755,Asia
+CUST1755,Customer_756,North America
+CUST1756,Customer_757,South America
+CUST1757,Customer_758,Europe
+CUST1758,Customer_759,Asia
+CUST1759,Customer_760,South America
+CUST1760,Customer_761,Asia
+CUST1761,Customer_762,Europe
+CUST1762,Customer_763,North America
+CUST1763,Customer_764,North America
+CUST1764,Customer_765,Asia
+CUST1765,Customer_766,North America
+CUST1766,Customer_767,Asia
+CUST1767,Customer_768,North America
+CUST1768,Customer_769,North America
+CUST1769,Customer_770,Asia
+CUST1770,Customer_771,Europe
+CUST1771,Customer_772,North America
+CUST1772,Customer_773,Asia
+CUST1773,Customer_774,North America
+CUST1774,Customer_775,North America
+CUST1775,Customer_776,North America
+CUST1776,Customer_777,South America
+CUST1777,Customer_778,North America
+CUST1778,Customer_779,North America
+CUST1779,Customer_780,North America
+CUST1780,Customer_781,North America
+CUST1781,Customer_782,South America
+CUST1782,Customer_783,Asia
+CUST1783,Customer_784,South America
+CUST1784,Customer_785,North America
+CUST1785,Customer_786,North America
+CUST1786,Customer_787,Asia
+CUST1787,Customer_788,South America
+CUST1788,Customer_789,Europe
+CUST1789,Customer_790,South America
+CUST1790,Customer_791,South America
+CUST1791,Customer_792,Europe
+CUST1792,Customer_793,North America
+CUST1793,Customer_794,South America
+CUST1794,Customer_795,North America
+CUST1795,Customer_796,North America
+CUST1796,Customer_797,Europe
+CUST1797,Customer_798,South America
+CUST1798,Customer_799,Asia
+CUST1799,Customer_800,South America
