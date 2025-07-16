@@ -1,0 +1,165 @@
+# Get a quick look at the first 10 customers to verify data quality
+SELECT 
+    * 
+FROM 
+    Customers 
+LIMIT 10;
+
+# Count how many customers belong to each region
+SELECT 
+    Region, 
+    COUNT(*) AS CustomerCount
+FROM 
+    Customers
+GROUP BY 
+    Region
+ORDER BY 
+    CustomerCount DESC;
+
+# Get total number of products available in the catalog
+SELECT 
+    COUNT(*) AS TotalProductCount
+FROM 
+    Products;
+
+# Find the average product price across all categories
+SELECT 
+    ROUND(AVG(UnitPrice), 2) AS AvgProductPrice
+FROM 
+    Products;
+
+# Retrieve Top 5 most expensive products to analyze high-value items
+SELECT 
+    ProductName, 
+    Category, 
+    UnitPrice
+FROM 
+    Products
+ORDER BY 
+    UnitPrice DESC
+LIMIT 5;
+
+# Count how many orders came from each region (JOIN Customers ↔ Orders)
+SELECT 
+    c.Region, 
+    COUNT(o.OrderID) AS TotalOrders
+FROM 
+    Customers
+JOIN 
+    Orders o ON o.CustomerID = c.CustomerID
+GROUP BY 
+    c.Region
+ORDER BY 
+    TotalOrders DESC;
+
+# Calculate total revenue per region
+SELECT 
+    c.Region, 
+    SUM(o.TotalAmount) AS TotalRevenue
+FROM 
+    Customers 
+JOIN 
+    Orders o ON o.CustomerID = c.CustomerID
+GROUP BY 
+    c.Region
+ORDER BY 
+    TotalRevenue DESC;
+
+# Calculate revenue by product category
+SELECT 
+    p.Category, 
+    SUM(o.TotalAmount) AS TotalRevenue
+FROM 
+    Products
+JOIN 
+    Orders o ON p.ProductID = o.ProductID
+GROUP BY 
+    p.Category
+ORDER BY 
+    TotalRevenue DESC;
+
+# Get TOP 3 products with the lowest revenue (could highlight underperforming products)
+SELECT 
+    p.ProductName, 
+    SUM(o.TotalAmount) AS TotalRevenue
+FROM 
+    Products
+JOIN 
+    Orders o ON p.ProductID = o.ProductID
+GROUP BY 
+    p.ProductName
+ORDER BY 
+    TotalRevenue ASC
+LIMIT 3;
+
+# Total units sold by each category
+SELECT 
+    p.Category, 
+    SUM(o.Quantity) AS UnitsSold
+FROM 
+    Products
+JOIN 
+    Orders o ON p.ProductID = o.ProductID
+GROUP BY 
+    p.Category
+ORDER BY 
+    UnitsSold DESC;
+
+# Get a detailed order report with Customer, Region, Product details
+SELECT 
+    c.CustomerName, 
+    p.ProductName, 
+    p.Category,
+    c.Region,
+    o.OrderDate, 
+    o.Quantity, 
+    o.TotalAmount
+FROM 
+    Orders
+JOIN 
+    Customers c ON o.CustomerID = c.CustomerID
+JOIN 
+    Products p ON o.ProductID = p.ProductID
+ORDER BY 
+    o.TotalAmount DESC;
+
+# Top 10 customers by total spending
+SELECT 
+    c.CustomerName,
+    c.Region,
+    SUM(o.TotalAmount) AS TotalSpent
+FROM 
+    Customers
+JOIN 
+    Orders o ON c.CustomerID = o.CustomerID
+GROUP BY 
+    c.CustomerName, c.Region
+ORDER BY 
+    TotalSpent DESC
+LIMIT 10;
+
+# Monthly sales trend
+SELECT 
+    DATE_FORMAT(o.OrderDate, '%Y-%m') AS Month,
+    SUM(o.TotalAmount) AS MonthlyRevenue
+FROM 
+    Orders o
+GROUP BY 
+    Month
+ORDER BY 
+    Month;
+
+# Average order value in each region + total number of orders
+SELECT 
+    c.Region,
+    COUNT(o.OrderID) AS TotalOrders,
+    ROUND(AVG(o.TotalAmount), 2) AS AvgOrderValue
+FROM 
+    Orders
+JOIN 
+    Customers c ON o.CustomerID = c.CustomerID
+GROUP BY 
+    c.Region
+ORDER BY 
+    AvgOrderValue DESC;
+
