@@ -1,76 +1,68 @@
-# 🛒 E-commerce Sales Database Project
+ Interactive Sales Performance Dashboard
 
-This project simulates a **relational database for an e-commerce sales system** and demonstrates ** SQL skills** and **business analytics** in action.
+This project showcases a fully interactive sales analytics dashboard built in Power BI and connected to a MySQL relational database.
 
----
+It visualizes:
 
-# Project Overview
+Total Revenue
 
-The goal of this project is to **analyze sales data** from an online store using SQL.  
-It covers:
+Total Orders
 
-- Table creation with proper **relationships** (Star Schema)
-- Sample data simulating realistic **customers, products, and orders**
-- Analytical queries answering real **business questions**
+Units Sold
 
-The database includes **three main entities**:
+Revenue breakdown by Region, Category, and Customers
 
-- **Customers** – personal and regional information about buyers  
-- **Products** – product catalog including categories and pricing  
-- **Orders** – sales transactions with date, quantity, and total amount  
+Monthly revenue trends
 
----
+All visuals are dynamic and filterable via slicers (Date & Region).
 
-# Technologies Used
+Data Source
+This dashboard is based on a MySQL e-commerce database containing 3 main tables:
 
-- **SQL (MySQL syntax)**  
-- Local SQL environment (MySQL Workbench)  
-- Data modeling  (Customers ↔ Orders ↔ Products)  
+Table	Description
+Customers	Customer name, region
+Products	Product name, category, price
+Orders	Date, quantity, total amount
 
----
+The data was first analyzed with SQL (aggregations, joins, ranking) and then visualized in Power BI.
 
-# Database Schema
+ Dashboard Features
+✔ 4 KPI Cards – Total Revenue, Total Orders, Avg Order Value, Units Sold
+✔ Revenue by Region – see how different regions contribute to sales
+✔ Revenue by Category – top product categories performance
+✔ Revenue by Customer – identify top customers
+✔ Monthly Revenue Trend – track sales over time
+✔ Dynamic Filters – Date slicer & Region slicer
+<img width="924" height="500" alt="image" src="https://github.com/user-attachments/assets/bda8dd9a-c12c-4bf4-926d-215afe1717dc" />
 
-| Table     | Description |
-|-----------|-------------|
-| **Customers** | Customer names, region, and contact details |
-| **Products**  | Product name, category, and price |
-| **Orders**    | Order transactions including product, customer, quantity, and total amount |
 
-Tables are connected via **primary keys** and **foreign keys**:  
+ Tech Stack
+MySQL – data storage & queries
 
-- `Orders.CustomerID → Customers.CustomerID`  
-- `Orders.ProductID → Products.ProductID`  
+SQL Workbench – for dataset preparation
 
----
+Power BI – dashboard creation, DAX measures, interactivity
 
-# Sample Insights & Query Highlights
 
-This project includes SQL queries that answer **real business questions**:
+Explore insights visually
 
-✅ **Basic queries**  
-- Total number of products  
-- Average product price  
-- Most expensive products  
+🧠 Skills Demonstrated
+SQL joins & aggregations (MySQL)
 
-✅ **Intermediate analytics**  
-- Total revenue by region  
-- Top-selling categories  
-- Monthly sales trends  
+Data modeling (Customers ↔ Orders ↔ Products)
 
-✅ **Advanced analytics**  
-- Ranking products by revenue in each category  
-- Calculating revenue share per region (%)  
-- Identifying top 10 VIP customers  
+Power BI KPI cards, slicers, and dynamic visuals
 
----
+Custom Power BI theme for a modern UI
 
-# Techniques Used
+Dashboard design & storytelling
 
-- `SELECT`, `JOIN`, `GROUP BY`, `ORDER BY`  
-- Aggregation (`SUM`, `AVG`, `COUNT`, etc.)  
-- Window functions (`RANK`, `LAG`)  
-- Date formatting (`DATE_FORMAT`)  
-- Percent calculations  
+ Business Value
+This interactive dashboard helps businesses:
+✅ Identify revenue drivers
+✅ Spot underperforming regions/products
+✅ Monitor trends & patterns
+✅ Make data-driven decisions
+
 
 
