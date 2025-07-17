@@ -40,24 +40,24 @@ The data was first analyzed with SQL (aggregations, joins, ranking) and then vis
 
 
 🛠 Tech Stack  
-MySQL → data storage & queries  
+* MySQL → data storage & queries  
 
-SQL Workbench → dataset preparation  
+* SQL Workbench → dataset preparation  
 
-Power BI → dashboard creation, DAX measures, interactivity  
+* Power BI → dashboard creation, DAX measures, interactivity  
 
-Custom Power BI Theme → modern UI & color palette  
+* Custom Power BI Theme → modern UI & color palette  
 
 🧠 Skills Demonstrated  
-SQL joins & aggregations (MySQL)  
+* SQL joins & aggregations (MySQL)  
 
-Data modeling (Customers ↔ Orders ↔ Products)  
+* Data modeling (Customers ↔ Orders ↔ Products)  
 
-Power BI KPI cards, slicers, and dynamic visuals  
+* Power BI KPI cards, slicers, and dynamic visuals  
 
-DAX for custom measures  
+* DAX for custom measures  
 
-Dashboard design & storytelling  
+* Dashboard design & storytelling  
 
 💼 Business Value  
 This interactive dashboard helps businesses:  
