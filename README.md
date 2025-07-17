@@ -5,15 +5,15 @@ It provides clear, data-driven insights into e-commerce performance.
 
 📊 What Does the Dashboard Show?  
 
-Total Revenue  
+* Total Revenue  
 
-Total Orders  
+* Total Orders  
 
-Units Sold  
+* Units Sold  
 
-Revenue breakdown by Region, Category, and Customers  
+* Revenue breakdown by Region, Category, and Customers  
 
-Monthly revenue trends  
+* Monthly revenue trends  
 
 All visuals are dynamic and filterable via Date & Region slicers for easy exploration.  
 
