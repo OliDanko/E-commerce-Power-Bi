@@ -14,6 +14,7 @@ Before creating the dashboard, the dataset was prepared and analyzed in MySQL.
 
 ➡ Result: Clean, structured, business-ready data for Power BI
 
+
 📊 Power BI Dashboard
 
 Once the data was ready, it was connected directly from MySQL into Power BI for visualization.  
@@ -32,7 +33,9 @@ It provides clear insights into:
 
 All visuals are dynamic and interactive, allowing deep exploration through slicers.
 
+
 📌 Dashboard Features
+
 ✅ 4 KPI Cards  
 
 * Total Revenue
@@ -51,11 +54,11 @@ All visuals are dynamic and interactive, allowing deep exploration through slice
 
 * Track performance of top product categories
 
-✅ Revenue by Customer
+✅ Revenue by Customer  
 
 * Identify key customers driving sales
 
-✅ Monthly Revenue Trend
+✅ Monthly Revenue Trend  
 
 * Monitor sales trends over time
 
@@ -65,11 +68,11 @@ All visuals are dynamic and interactive, allowing deep exploration through slice
 
 * Region slicer → filter by geography
 
-✅ Custom Theme
+✅ Custom Theme  
 
-* Modern UI with neutral background (#EDEDED)
+* Modern UI with neutral background 
 
-* Accent colors for better visual hierarchy (#4CC9F0 & #F72585)
+* Accent colors for better visual hierarchy 
 
 <img width="916" height="495" alt="image" src="https://github.com/user-attachments/assets/8a9e0272-0c70-471c-b75a-bfe3813e3200" />
 
@@ -81,6 +84,7 @@ All visuals are dynamic and interactive, allowing deep exploration through slice
 * SQL Workbench → data modeling & business queries
 
 * Power BI → visualization, DAX, interactive storytelling
+* 
 
 🧠 Skills Demonstrated
 
@@ -103,22 +107,19 @@ All visuals are dynamic and interactive, allowing deep exploration through slice
 
 
 🚀 Workflow
-Create database schema & load data → ecommerce.sql
 
-Analyze KPIs with SQL → queries.sql
+* Create database schema & load data → ecommerce.sql
 
-Connect MySQL to Power BI
+* Analyze KPIs with SQL → queries.sql
 
-Build DAX measures & visuals
+* Connect MySQL to Power BI
 
-Design interactive filters & layout
+* Build DAX measures & visuals
 
-Publish dashboard
+* Design interactive filters & layout
 
-🔗 Try it Yourself
-📥 Download Power BI Dashboard
+* Publish dashboard
 
-Open it in Power BI Desktop → Use slicers to explore interactive insights
 
 
 
