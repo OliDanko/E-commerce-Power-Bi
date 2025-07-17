@@ -26,12 +26,12 @@ Orders – Date, quantity, total amount
 The data was first analyzed with SQL (aggregations, joins, ranking) and then visualized in Power BI.
 
 📌 Dashboard Features
-✅ 4 KPI Cards – Total Revenue, Total Orders, Avg Order Value, Units Sold** 
-✅ Revenue by Region – see how different regions contribute to sales** 
-✅ Revenue by Category – top product categories performance** 
-✅ Revenue by Customer – identify top customers** 
-✅ Monthly Revenue Trend – track sales over time** 
-✅ Dynamic Filters – Date slicer & Region slicer** 
+✅ 4 KPI Cards – Total Revenue, Total Orders, Avg Order Value, Units Sold  
+✅ Revenue by Region – see how different regions contribute to sales  
+✅ Revenue by Category – top product categories performance  
+✅ Revenue by Customer – identify top customers  
+✅ Monthly Revenue Trend – track sales over time  
+✅ Dynamic Filters – Date slicer & Region slicer  
 
 <img width="916" height="495" alt="image" src="https://github.com/user-attachments/assets/8a9e0272-0c70-471c-b75a-bfe3813e3200" />
 
