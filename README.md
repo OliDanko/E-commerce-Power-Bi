@@ -1,70 +1,129 @@
 🖥️ Interactive Sales Performance Dashboard
+This project showcases a fully interactive sales analytics dashboard built in Power BI, connected to a MySQL relational database.
+It demonstrates the full workflow of a data analyst – from SQL data preparation & analytics to visual storytelling in Power BI.
 
-This project showcases a fully interactive sales analytics dashboard built in Power BI, connected to a MySQL relational database.  
-It provides clear, data-driven insights into e-commerce performance.  
+🗄 SQL Data Preparation
+Before creating the dashboard, the dataset was prepared and analyzed in MySQL.
 
-📊 What Does the Dashboard Show?  
+✅ Relational Schema → 3 tables (Customers, Products, Orders) with proper primary/foreign keys  
+✅ Data Quality Checks → verified sample rows, categories, regions, referential integrity  
+✅ Business Aggregations → total revenue by region, category insights, top customers  
+✅ Time-Series Analysis → extracted monthly sales trends with DATE_FORMAT()  
+✅ Advanced Reporting → joins, rankings, and revenue share calculations  
 
-* Total Revenue  
+➡ Result: Clean, structured, business-ready data for Power BI
 
-* Total Orders  
+📊 Power BI Dashboard
+Once the data was ready, it was connected directly from MySQL into Power BI for visualization.
 
-* Units Sold  
+It provides clear insights into:
 
-* Revenue breakdown by Region, Category, and Customers  
+Total Revenue
 
-* Monthly revenue trends  
+Total Orders
 
-All visuals are dynamic and filterable via Date & Region slicers for easy exploration.  
+Units Sold
 
-🗄 Data Source
-This dashboard is based on a MySQL e-commerce database containing 3 main tables:  
+Revenue by Region, Category, Customer
 
-* Customers – Customer name, region  
+Monthly Revenue Trends
 
-* Products – Product name, category, price  
+All visuals are dynamic and interactive, allowing deep exploration through slicers.
 
-* Orders – Date, quantity, total amount  
+📌 Dashboard Features
+✅ 4 KPI Cards
 
-The data was first analyzed with SQL (aggregations, joins, ranking) and then visualized in Power BI.
+Total Revenue
 
-📌 Dashboard Features  
-✅ 4 KPI Cards – Total Revenue, Total Orders, Avg Order Value, Units Sold  
-✅ Revenue by Region – see how different regions contribute to sales  
-✅ Revenue by Category – top product categories performance  
-✅ Revenue by Customer – identify top customers  
-✅ Monthly Revenue Trend – track sales over time  
-✅ Dynamic Filters – Date slicer & Region slicer  
+Total Orders
+
+Average Order Value
+
+Units Sold
+
+✅ Revenue by Region
+
+See how different regions contribute to sales
+
+✅ Revenue by Category
+
+Track performance of top product categories
+
+✅ Revenue by Customer
+
+Identify key customers driving sales
+
+✅ Monthly Revenue Trend
+
+Monitor sales trends over time
+
+✅ Dynamic Filters
+
+Date slicer → filter by time period
+
+Region slicer → filter by geography
+
+✅ Custom Theme
+
+Modern UI with neutral background (#EDEDED)
+
+Accent colors for better visual hierarchy (#4CC9F0 & #F72585)
 
 <img width="916" height="495" alt="image" src="https://github.com/user-attachments/assets/8a9e0272-0c70-471c-b75a-bfe3813e3200" />
 
 
-🛠 Tech Stack  
-* MySQL → data storage & queries  
+🛠 Tech Stack
+MySQL → relational database for raw data
 
-* SQL Workbench → dataset preparation  
+SQL Workbench → data modeling & business queries
 
-* Power BI → dashboard creation, DAX measures, interactivity  
+Power BI → visualization, DAX, interactive storytelling
 
-* Custom Power BI Theme → modern UI & color palette  
+🧠 Skills Demonstrated
+SQL joins, aggregations, window functions
 
-🧠 Skills Demonstrated  
-* SQL joins & aggregations (MySQL)  
+Database design (star schema)
 
-* Data modeling (Customers ↔ Orders ↔ Products)  
+Power BI data modeling & KPI creation
 
-* Power BI KPI cards, slicers, and dynamic visuals  
+Interactive visuals & slicers
 
-* DAX for custom measures  
+Dashboard design & UX
 
-* Dashboard design & storytelling  
+💼 Business Value
+✔ Identify revenue drivers
+✔ Spot underperforming regions or products
+✔ Monitor customer behavior
+✔ Make better data-driven decisions
 
-💼 Business Value  
-This interactive dashboard helps businesses:  
+📂 Project Files
+ecommerce.sql → MySQL schema & sample data
 
-✔ Identify revenue drivers  
-✔ Spot underperforming regions/products  
-✔ Monitor trends & patterns  
-✔ Make data-driven decisions  
+queries.sql → SQL business analytics queries
+
+Sales_Performance_Dashboard.pbix → Power BI interactive dashboard
+
+README.md → Documentation
+
+🚀 Workflow
+Create database schema & load data → ecommerce.sql
+
+Analyze KPIs with SQL → queries.sql
+
+Connect MySQL to Power BI
+
+Build DAX measures & visuals
+
+Design interactive filters & layout
+
+Publish dashboard
+
+🔗 Try it Yourself
+📥 Download Power BI Dashboard
+
+Open it in Power BI Desktop → Use slicers to explore interactive insights
+
+
+
 
 
