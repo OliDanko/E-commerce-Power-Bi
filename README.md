@@ -1,22 +1,17 @@
- Interactive Sales Performance Dashboard
+🖥️ Interactive Sales Performance Dashboard
+This project showcases a fully interactive sales analytics dashboard built in Power BI, connected to a MySQL relational database.
+It provides clear, data-driven insights into e-commerce performance.
 
-This project showcases a fully interactive sales analytics dashboard built in Power BI and connected to a MySQL relational database.
+📊 What Does the Dashboard Show?
+✅ Total Revenue
+✅ Total Orders
+✅ Units Sold
+✅ Revenue breakdown by Region, Category, and Customers
+✅ Monthly revenue trends
 
-It visualizes:
+All visuals are dynamic and filterable via Date & Region slicers for easy exploration.
 
-Total Revenue
-
-Total Orders
-
-Units Sold
-
-Revenue breakdown by Region, Category, and Customers
-
-Monthly revenue trends
-
-All visuals are dynamic and filterable via slicers (Date & Region).
-
-Data Source
+🗄 Data Source
 This dashboard is based on a MySQL e-commerce database containing 3 main tables:
 
 Table	Description
@@ -26,25 +21,25 @@ Orders	Date, quantity, total amount
 
 The data was first analyzed with SQL (aggregations, joins, ranking) and then visualized in Power BI.
 
- Dashboard Features
+📌 Dashboard Features
 ✔ 4 KPI Cards – Total Revenue, Total Orders, Avg Order Value, Units Sold
 ✔ Revenue by Region – see how different regions contribute to sales
 ✔ Revenue by Category – top product categories performance
 ✔ Revenue by Customer – identify top customers
 ✔ Monthly Revenue Trend – track sales over time
 ✔ Dynamic Filters – Date slicer & Region slicer
-<img width="924" height="500" alt="image" src="https://github.com/user-attachments/assets/bda8dd9a-c12c-4bf4-926d-215afe1717dc" />
+
+<img width="930" height="501" alt="image" src="https://github.com/user-attachments/assets/5f558a08-2783-42b0-929c-a73e83414360" />
 
 
- Tech Stack
+🛠 Tech Stack
 MySQL – data storage & queries
 
-SQL Workbench – for dataset preparation
+SQL Workbench – dataset preparation
 
 Power BI – dashboard creation, DAX measures, interactivity
 
-
-Explore insights visually
+Custom Power BI Theme – modern UI & color palette
 
 🧠 Skills Demonstrated
 SQL joins & aggregations (MySQL)
@@ -53,11 +48,11 @@ Data modeling (Customers ↔ Orders ↔ Products)
 
 Power BI KPI cards, slicers, and dynamic visuals
 
-Custom Power BI theme for a modern UI
+DAX for custom measures
 
 Dashboard design & storytelling
 
- Business Value
+💼 Business Value
 This interactive dashboard helps businesses:
 ✅ Identify revenue drivers
 ✅ Spot underperforming regions/products
