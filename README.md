@@ -17,12 +17,13 @@ Monthly revenue trends
 
 All visuals are dynamic and filterable via Date & Region slicers for easy exploration.  
 
-🗄 Data Source  
+🗄 Data Source
 This dashboard is based on a MySQL e-commerce database containing 3 main tables:  
 
-Customers – Customer name, region  
-Products – Product name, category, price  
-Orders – Date, quantity, total amount  
+Table	Description  
+Customers	Customer name, region  
+Products	Product name, category, price  
+Orders	Date, quantity, total amount  
 
 The data was first analyzed with SQL (aggregations, joins, ranking) and then visualized in Power BI.  
 
