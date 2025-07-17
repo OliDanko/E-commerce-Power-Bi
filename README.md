@@ -77,6 +77,7 @@ All visuals are dynamic and interactive, allowing deep exploration through slice
 <img width="916" height="495" alt="image" src="https://github.com/user-attachments/assets/8a9e0272-0c70-471c-b75a-bfe3813e3200" />
 
 
+
 🛠 Tech Stack
 
 * MySQL → relational database for raw data
@@ -84,7 +85,7 @@ All visuals are dynamic and interactive, allowing deep exploration through slice
 * SQL Workbench → data modeling & business queries
 
 * Power BI → visualization, DAX, interactive storytelling
-* 
+  
 
 🧠 Skills Demonstrated
 
@@ -97,13 +98,14 @@ All visuals are dynamic and interactive, allowing deep exploration through slice
 * Interactive visuals & slicers
 
 * Dashboard design & UX
+  
 
 💼 Business Value
 
-✔ Identify revenue drivers
-✔ Spot underperforming regions or products
-✔ Monitor customer behavior
-✔ Make better data-driven decisions
+✔ Identify revenue drivers  
+✔ Spot underperforming regions or products  
+✔ Monitor customer behavior  
+✔ Make better data-driven decisions  
 
 
 🚀 Workflow
