@@ -1,4 +1,5 @@
-🖥️ Interactive Sales Performance Dashboard
+🖥️ Interactive Sales Performance Dashboard  
+
 This project showcases a fully interactive sales analytics dashboard built in Power BI, connected to a MySQL relational database.
 It demonstrates the full workflow of a data analyst – from SQL data preparation & analytics to visual storytelling in Power BI.
 
