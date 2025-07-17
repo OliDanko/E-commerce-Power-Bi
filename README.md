@@ -15,96 +15,92 @@ Before creating the dashboard, the dataset was prepared and analyzed in MySQL.
 ➡ Result: Clean, structured, business-ready data for Power BI
 
 📊 Power BI Dashboard
-Once the data was ready, it was connected directly from MySQL into Power BI for visualization.
 
-It provides clear insights into:
+Once the data was ready, it was connected directly from MySQL into Power BI for visualization.  
 
-Total Revenue
+It provides clear insights into:  
 
-Total Orders
+* Total Revenue
 
-Units Sold
+* Total Orders
 
-Revenue by Region, Category, Customer
+* Units Sold
 
-Monthly Revenue Trends
+* Revenue by Region, Category, Customer
+
+* Monthly Revenue Trends
 
 All visuals are dynamic and interactive, allowing deep exploration through slicers.
 
 📌 Dashboard Features
-✅ 4 KPI Cards
+✅ 4 KPI Cards  
 
-Total Revenue
+* Total Revenue
 
-Total Orders
+* Total Orders
 
-Average Order Value
+* Average Order Value
 
-Units Sold
+* Units Sold
 
-✅ Revenue by Region
+✅ Revenue by Region  
 
-See how different regions contribute to sales
+* See how different regions contribute to sales
 
-✅ Revenue by Category
+✅ Revenue by Category  
 
-Track performance of top product categories
+* Track performance of top product categories
 
 ✅ Revenue by Customer
 
-Identify key customers driving sales
+* Identify key customers driving sales
 
 ✅ Monthly Revenue Trend
 
-Monitor sales trends over time
+* Monitor sales trends over time
 
 ✅ Dynamic Filters
 
-Date slicer → filter by time period
+* Date slicer → filter by time period
 
-Region slicer → filter by geography
+* Region slicer → filter by geography
 
 ✅ Custom Theme
 
-Modern UI with neutral background (#EDEDED)
+* Modern UI with neutral background (#EDEDED)
 
-Accent colors for better visual hierarchy (#4CC9F0 & #F72585)
+* Accent colors for better visual hierarchy (#4CC9F0 & #F72585)
 
 <img width="916" height="495" alt="image" src="https://github.com/user-attachments/assets/8a9e0272-0c70-471c-b75a-bfe3813e3200" />
 
 
 🛠 Tech Stack
-MySQL → relational database for raw data
 
-SQL Workbench → data modeling & business queries
+* MySQL → relational database for raw data
 
-Power BI → visualization, DAX, interactive storytelling
+* SQL Workbench → data modeling & business queries
+
+* Power BI → visualization, DAX, interactive storytelling
 
 🧠 Skills Demonstrated
-SQL joins, aggregations, window functions
 
-Database design (star schema)
+* SQL joins, aggregations, window functions
 
-Power BI data modeling & KPI creation
+* Database design (star schema)
 
-Interactive visuals & slicers
+* Power BI data modeling & KPI creation
 
-Dashboard design & UX
+* Interactive visuals & slicers
+
+* Dashboard design & UX
 
 💼 Business Value
+
 ✔ Identify revenue drivers
 ✔ Spot underperforming regions or products
 ✔ Monitor customer behavior
 ✔ Make better data-driven decisions
 
-📂 Project Files
-ecommerce.sql → MySQL schema & sample data
-
-queries.sql → SQL business analytics queries
-
-Sales_Performance_Dashboard.pbix → Power BI interactive dashboard
-
-README.md → Documentation
 
 🚀 Workflow
 Create database schema & load data → ecommerce.sql
